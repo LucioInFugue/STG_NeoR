@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeoR Automata", "NeoR Automata\NeoR Automata.vcxproj", "{DDE34348-5C8A-43D6-AB6B-A3983C679A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE34348-5C8A-43D6-AB6B-A3983C679A50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDE34348-5C8A-43D6-AB6B-A3983C679A50}.Debug|Win32.Build.0 = Debug|Win32
+		{DDE34348-5C8A-43D6-AB6B-A3983C679A50}.Release|Win32.ActiveCfg = Release|Win32
+		{DDE34348-5C8A-43D6-AB6B-A3983C679A50}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
